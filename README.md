@@ -84,17 +84,30 @@ Directory structure:
 
 ## ✅ How to Run
 
-```bash
-# Clone the repository
-git clone https://github.com/Venkatsuresh432/Chat_app-Reactjs-firebase.git
+      ```bash
+      # Clone the repository
+      git clone https://github.com/Venkatsuresh432/Chat_app-Reactjs-firebase.git
+      
+      # Navigate to the project
+      cd Chat_app-Reactjs-firebase
+      
+      # Install dependencies
+      npm install
+      
+      # Run the development server
+      npm run dev
 
-# Navigate to the project
-cd Chat_app-Reactjs-firebase
 
-# Install dependencies
-npm install
+## Screenshot
 
-# Run the development server
-npm run dev
+![App Screenshot](Screenshot%20(280).png)
+
+---
+
+![App Screenshot](Screenshot%20(281).png)
+
+---
+
+> ⚠️ **Note:** The chat UI screenshot could not be included due to an issue with Google Firestore integration during development. Once resolved, the demo and screenshots will be updated accordingly.
 
 
